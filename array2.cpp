@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-    int arr[5]={};
-    
+    int arr[5];
     string crr[5]={"First","second","Third","Fourth","Fifth"};
     for (int i = 0; i < 5; i++)
     {  
