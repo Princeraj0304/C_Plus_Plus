@@ -1,1 +1,2 @@
 C++ is a programming language 
+It is used in game development, app development, web development 
